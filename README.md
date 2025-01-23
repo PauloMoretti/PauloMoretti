@@ -1,5 +1,6 @@
-## Olá! Eu sou o Paulo Moretti, tenho 23 anos. Sou apaixonado por jogos e tecnologias.  🔥🔥🔥
-### Estou no segundo ano de Engenharia de Software e no meu tempo livre faço cursos de programação. No momento estou focado no curso Full Stack da OneBitCode 🚀🚀
+## Olá! Eu sou o Paulo Moretti, tenho 24 anos. Sou apaixonado por jogos e tecnologias.  🔥🔥🔥
+### Estou no terceiro ano de Engenharia de Software.
+
 ![PauloMoretti GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloMoretti&show_icons=true&theme=radical)
 ### Linkedin: https://www.linkedin.com/in/paulo-moretti-560955247/
 #### Email: morettiestudo@gmail.com
